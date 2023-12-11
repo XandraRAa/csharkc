@@ -1,0 +1,15 @@
+C:\Users\Александра\Desktop\csharpc\lessons1\bin\Debug\net6.0\lessons1.exe
+C:\Users\Александра\Desktop\csharpc\lessons1\bin\Debug\net6.0\lessons1.deps.json
+C:\Users\Александра\Desktop\csharpc\lessons1\bin\Debug\net6.0\lessons1.runtimeconfig.json
+C:\Users\Александра\Desktop\csharpc\lessons1\bin\Debug\net6.0\lessons1.dll
+C:\Users\Александра\Desktop\csharpc\lessons1\bin\Debug\net6.0\lessons1.pdb
+C:\Users\Александра\Desktop\csharpc\lessons1\obj\Debug\net6.0\lessons1.csproj.AssemblyReference.cache
+C:\Users\Александра\Desktop\csharpc\lessons1\obj\Debug\net6.0\lessons1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александра\Desktop\csharpc\lessons1\obj\Debug\net6.0\lessons1.AssemblyInfoInputs.cache
+C:\Users\Александра\Desktop\csharpc\lessons1\obj\Debug\net6.0\lessons1.AssemblyInfo.cs
+C:\Users\Александра\Desktop\csharpc\lessons1\obj\Debug\net6.0\lessons1.csproj.CoreCompileInputs.cache
+C:\Users\Александра\Desktop\csharpc\lessons1\obj\Debug\net6.0\lessons1.dll
+C:\Users\Александра\Desktop\csharpc\lessons1\obj\Debug\net6.0\refint\lessons1.dll
+C:\Users\Александра\Desktop\csharpc\lessons1\obj\Debug\net6.0\lessons1.pdb
+C:\Users\Александра\Desktop\csharpc\lessons1\obj\Debug\net6.0\lessons1.genruntimeconfig.cache
+C:\Users\Александра\Desktop\csharpc\lessons1\obj\Debug\net6.0\ref\lessons1.dll
